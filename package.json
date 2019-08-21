@@ -1,11 +1,12 @@
 {
-	"name": "React-Native-Sift",
+	"name": "react-native-sift",
 	"version": "0.0.1",
 	"main": "./index.js",
 	"scripts": {
 		"start": "node node_modules/react-native/local-cli/cli.js start",
 		"test": "jest",
-		"postinstall": "./src/utility/postScript.sh"
+		"postinstallttt": "./src/utility/postScript.sh",
+		"postinstall": "./node_modules/react-native-sift/src/utility/postScript.sh"
 	},
 	"dependencies": {
 		"react": "16.8.3",
