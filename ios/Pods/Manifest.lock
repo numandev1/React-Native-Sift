@@ -1,0 +1,16 @@
+PODS:
+  - Sift (1.0.1)
+
+DEPENDENCIES:
+  - Sift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Sift
+
+SPEC CHECKSUMS:
+  Sift: b88d136789aec911712562cc72f6f715aba588fb
+
+PODFILE CHECKSUM: a87ad50c9fb76cadcb99828bbc9631f675ec8c89
+
+COCOAPODS: 1.7.5

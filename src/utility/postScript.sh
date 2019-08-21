@@ -1,0 +1,1 @@
+cp -fr ./src/utility/packagerCode.sh ./node_modules/react-native/scripts/packager.sh
