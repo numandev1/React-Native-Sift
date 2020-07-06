@@ -1,6 +1,6 @@
 {
 	"name": "react-native-sift",
-	"version": "0.0.2",
+	"version": "0.0.4",
 	"main": "./index.js",
 	"scripts": {
 		"start": "node node_modules/react-native/local-cli/cli.js start",
@@ -23,5 +23,16 @@
 	},
 	"jest": {
 		"preset": "react-native"
-	}
+	},
+	"author": "nomi9995 <muhammadnuman70@gmail.com> (http://www.github.com/nomi9995)",
+  "license": "MIT",
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomi9995/react-native-sift.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nomi9995/react-native-sift/issues"
+  },
+  "homepage": "https://github.com/nomi9995/react-native-sift#readme"
 }
